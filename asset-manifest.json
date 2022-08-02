@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/todo-cards/static/css/main.916e9e3d.css",
+    "main.js": "/todo-cards/static/js/main.5f6ea9b4.js",
+    "index.html": "/todo-cards/index.html",
+    "main.916e9e3d.css.map": "/todo-cards/static/css/main.916e9e3d.css.map",
+    "main.5f6ea9b4.js.map": "/todo-cards/static/js/main.5f6ea9b4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.916e9e3d.css",
+    "static/js/main.5f6ea9b4.js"
+  ]
+}
